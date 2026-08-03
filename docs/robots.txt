@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://jetbright.homes/sitemap.xml
